@@ -1,0 +1,726 @@
+county,indicator,Unit,Date,Value
+Nairobi,Under-five mortality rate,,1989,81
+Nairobi,Under-five mortality rate,,1993,82
+Nairobi,Under-five mortality rate,,1998,66
+Nairobi,Under-five mortality rate,,2003,95
+Nairobi,Under-five mortality rate,,2008,64
+Nairobi,Under-five mortality rate,,2014,72
+Nairobi,Under-five mortality rate,,2022,44
+Nairobi,Child mortality rate,,1989,36
+Nairobi,Child mortality rate,,1993,39
+Nairobi,Child mortality rate,,1998,26
+Nairobi,Child mortality rate,,2003,30
+Nairobi,Child mortality rate,,2008,4
+Nairobi,Child mortality rate,,2014,17
+Nairobi,Child mortality rate,,2022,4
+Nairobi,Infant mortality rate,,1989,46
+Nairobi,Infant mortality rate,,1993,44
+Nairobi,Infant mortality rate,,1998,41
+Nairobi,Infant mortality rate,,2003,67
+Nairobi,Infant mortality rate,,2008,60
+Nairobi,Infant mortality rate,,2014,55
+Nairobi,Infant mortality rate,,2022,40
+Nairobi,Postneonatal mortality rate,,1989,26
+Nairobi,Postneonatal mortality rate,,1993,11
+Nairobi,Postneonatal mortality rate,,1998,22
+Nairobi,Postneonatal mortality rate,,2003,35
+Nairobi,Postneonatal mortality rate,,2008,12
+Nairobi,Postneonatal mortality rate,,2014,16
+Nairobi,Postneonatal mortality rate,,2022,20
+Nairobi,Neonatal mortality rate,,1989,20
+Nairobi,Neonatal mortality rate,,1993,34
+Nairobi,Neonatal mortality rate,,1998,19
+Nairobi,Neonatal mortality rate,,2003,32
+Nairobi,Neonatal mortality rate,,2008,48
+Nairobi,Neonatal mortality rate,,2014,39
+Nairobi,Neonatal mortality rate,,2022,20
+Central,Under-five mortality rate,,1989,46
+Central,Under-five mortality rate,,1993,41
+Central,Under-five mortality rate,,1998,33
+Central,Under-five mortality rate,,2003,54
+Central,Under-five mortality rate,,2008,51
+Central,Under-five mortality rate,,2014,42
+Central,Under-five mortality rate,,2022,45
+Central,Child mortality rate,,1989,10
+Central,Child mortality rate,,1993,11
+Central,Child mortality rate,,1998,6
+Central,Child mortality rate,,2003,10
+Central,Child mortality rate,,2008,10
+Central,Child mortality rate,,2014,4
+Central,Child mortality rate,,2022,5
+Central,Infant mortality rate,,1989,37
+Central,Infant mortality rate,,1993,31
+Central,Infant mortality rate,,1998,27
+Central,Infant mortality rate,,2003,44
+Central,Infant mortality rate,,2008,42
+Central,Infant mortality rate,,2014,38
+Central,Infant mortality rate,,2022,40
+Central,Postneonatal mortality rate,,1989,19
+Central,Postneonatal mortality rate,,1993,14
+Central,Postneonatal mortality rate,,1998,10
+Central,Postneonatal mortality rate,,2003,17
+Central,Postneonatal mortality rate,,2008,11
+Central,Postneonatal mortality rate,,2014,14
+Central,Postneonatal mortality rate,,2022,11
+Central,Neonatal mortality rate,,1989,18
+Central,Neonatal mortality rate,,1993,17
+Central,Neonatal mortality rate,,1998,18
+Central,Neonatal mortality rate,,2003,27
+Central,Neonatal mortality rate,,2008,31
+Central,Neonatal mortality rate,,2014,24
+Central,Neonatal mortality rate,,2022,29
+Kiambu,Under-five mortality rate,,2014,38
+Kiambu,Under-five mortality rate,,2022,40
+Kiambu,Child mortality rate,,2014,2
+Kiambu,Child mortality rate,,2022,5
+Kiambu,Infant mortality rate,,2014,36
+Kiambu,Infant mortality rate,,2022,35
+Kiambu,Postneonatal mortality rate,,2014,12
+Kiambu,Postneonatal mortality rate,,2022,7
+Kiambu,Neonatal mortality rate,,2014,24
+Kiambu,Neonatal mortality rate,,2022,28
+Kirinyaga,Under-five mortality rate,,2014,39
+Kirinyaga,Under-five mortality rate,,2022,56
+Kirinyaga,Child mortality rate,,2014,8
+Kirinyaga,Child mortality rate,,2022,2
+Kirinyaga,Infant mortality rate,,2014,32
+Kirinyaga,Infant mortality rate,,2022,55
+Kirinyaga,Postneonatal mortality rate,,2014,9
+Kirinyaga,Postneonatal mortality rate,,2022,17
+Kirinyaga,Neonatal mortality rate,,2014,23
+Kirinyaga,Neonatal mortality rate,,2022,37
+Murang'a,Under-five mortality rate,,2014,45
+Murang'a,Under-five mortality rate,,2022,47
+Murang'a,Child mortality rate,,2014,7
+Murang'a,Child mortality rate,,2022,5
+Murang'a,Infant mortality rate,,2014,38
+Murang'a,Infant mortality rate,,2022,43
+Murang'a,Postneonatal mortality rate,,2014,13
+Murang'a,Postneonatal mortality rate,,2022,7
+Murang'a,Neonatal mortality rate,,2014,26
+Murang'a,Neonatal mortality rate,,2022,36
+Nyeri,Under-five mortality rate,,2014,36
+Nyeri,Under-five mortality rate,,2022,52
+Nyeri,Child mortality rate,,2014,3
+Nyeri,Child mortality rate,,2022,5
+Nyeri,Infant mortality rate,,2014,33
+Nyeri,Infant mortality rate,,2022,48
+Nyeri,Postneonatal mortality rate,,2014,18
+Nyeri,Postneonatal mortality rate,,2022,21
+Nyeri,Neonatal mortality rate,,2014,15
+Nyeri,Neonatal mortality rate,,2022,27
+Nyandarua,Under-five mortality rate,,2014,58
+Nyandarua,Under-five mortality rate,,2022,45
+Nyandarua,Child mortality rate,,2014,4
+Nyandarua,Child mortality rate,,2022,10
+Nyandarua,Infant mortality rate,,2014,54
+Nyandarua,Infant mortality rate,,2022,36
+Nyandarua,Postneonatal mortality rate,,2014,19
+Nyandarua,Postneonatal mortality rate,,2022,16
+Nyandarua,Neonatal mortality rate,,2014,35
+Nyandarua,Neonatal mortality rate,,2022,20
+Coast,Under-five mortality rate,,1989,158
+Coast,Under-five mortality rate,,1993,109
+Coast,Under-five mortality rate,,1998,96
+Coast,Under-five mortality rate,,2003,116
+Coast,Under-five mortality rate,,2008,87
+Coast,Under-five mortality rate,,2014,57
+Coast,Under-five mortality rate,,2022,41
+Coast,Child mortality rate,,1989,55
+Coast,Child mortality rate,,1993,43
+Coast,Child mortality rate,,1998,28
+Coast,Child mortality rate,,2003,41
+Coast,Child mortality rate,,2008,18
+Coast,Child mortality rate,,2014,14
+Coast,Child mortality rate,,2022,7
+Coast,Infant mortality rate,,1989,109
+Coast,Infant mortality rate,,1993,68
+Coast,Infant mortality rate,,1998,70
+Coast,Infant mortality rate,,2003,78
+Coast,Infant mortality rate,,2008,71
+Coast,Infant mortality rate,,2014,44
+Coast,Infant mortality rate,,2022,34
+Coast,Postneonatal mortality rate,,1989,47
+Coast,Postneonatal mortality rate,,1993,40
+Coast,Postneonatal mortality rate,,1998,42
+Coast,Postneonatal mortality rate,,2003,33
+Coast,Postneonatal mortality rate,,2008,27
+Coast,Postneonatal mortality rate,,2014,19
+Coast,Postneonatal mortality rate,,2022,9
+Coast,Neonatal mortality rate,,1989,62
+Coast,Neonatal mortality rate,,1993,29
+Coast,Neonatal mortality rate,,1998,28
+Coast,Neonatal mortality rate,,2003,45
+Coast,Neonatal mortality rate,,2008,44
+Coast,Neonatal mortality rate,,2014,25
+Coast,Neonatal mortality rate,,2022,25
+Kilifi,Under-five mortality rate,,2014,56
+Kilifi,Under-five mortality rate,,2022,40
+Kilifi,Child mortality rate,,2014,18
+Kilifi,Child mortality rate,,2022,6
+Kilifi,Infant mortality rate,,2014,39
+Kilifi,Infant mortality rate,,2022,34
+Kilifi,Postneonatal mortality rate,,2014,20
+Kilifi,Postneonatal mortality rate,,2022,10
+Kilifi,Neonatal mortality rate,,2014,20
+Kilifi,Neonatal mortality rate,,2022,24
+Kwale,Under-five mortality rate,,2014,60
+Kwale,Under-five mortality rate,,2022,30
+Kwale,Child mortality rate,,2014,9
+Kwale,Child mortality rate,,2022,7
+Kwale,Infant mortality rate,,2014,51
+Kwale,Infant mortality rate,,2022,23
+Kwale,Postneonatal mortality rate,,2014,20
+Kwale,Postneonatal mortality rate,,2022,4
+Kwale,Neonatal mortality rate,,2014,30
+Kwale,Neonatal mortality rate,,2022,19
+Lamu,Under-five mortality rate,,2014,68
+Lamu,Under-five mortality rate,,2022,50
+Lamu,Child mortality rate,,2014,11
+Lamu,Child mortality rate,,2022,9
+Lamu,Infant mortality rate,,2014,58
+Lamu,Infant mortality rate,,2022,41
+Lamu,Postneonatal mortality rate,,2014,24
+Lamu,Postneonatal mortality rate,,2022,15
+Lamu,Neonatal mortality rate,,2014,34
+Lamu,Neonatal mortality rate,,2022,26
+Mombasa,Under-five mortality rate,,2014,52
+Mombasa,Under-five mortality rate,,2022,50
+Mombasa,Child mortality rate,,2014,10
+Mombasa,Child mortality rate,,2022,8
+Mombasa,Infant mortality rate,,2014,43
+Mombasa,Infant mortality rate,,2022,43
+Mombasa,Postneonatal mortality rate,,2014,18
+Mombasa,Postneonatal mortality rate,,2022,10
+Mombasa,Neonatal mortality rate,,2014,25
+Mombasa,Neonatal mortality rate,,2022,32
+Tana River,Under-five mortality rate,,2014,72
+Tana River,Under-five mortality rate,,2022,45
+Tana River,Child mortality rate,,2014,21
+Tana River,Child mortality rate,,2022,8
+Tana River,Infant mortality rate,,2014,52
+Tana River,Infant mortality rate,,2022,38
+Tana River,Postneonatal mortality rate,,2014,13
+Tana River,Postneonatal mortality rate,,2022,14
+Tana River,Neonatal mortality rate,,2014,39
+Tana River,Neonatal mortality rate,,2022,23
+Taita Taveta,Under-five mortality rate,,2014,48
+Taita Taveta,Under-five mortality rate,,2022,29
+Taita Taveta,Child mortality rate,,2014,17
+Taita Taveta,Child mortality rate,,2022,6
+Taita Taveta,Infant mortality rate,,2014,31
+Taita Taveta,Infant mortality rate,,2022,24
+Taita Taveta,Postneonatal mortality rate,,2014,17
+Taita Taveta,Postneonatal mortality rate,,2022,5
+Taita Taveta,Neonatal mortality rate,,2014,14
+Taita Taveta,Neonatal mortality rate,,2022,19
+Eastern,Under-five mortality rate,,1989,64
+Eastern,Under-five mortality rate,,1993,66
+Eastern,Under-five mortality rate,,1998,78
+Eastern,Under-five mortality rate,,2003,84
+Eastern,Under-five mortality rate,,2008,52
+Eastern,Under-five mortality rate,,2014,45
+Eastern,Under-five mortality rate,,2022,34
+Eastern,Child mortality rate,,1989,22
+Eastern,Child mortality rate,,1993,19
+Eastern,Child mortality rate,,1998,26
+Eastern,Child mortality rate,,2003,29
+Eastern,Child mortality rate,,2008,14
+Eastern,Child mortality rate,,2014,9
+Eastern,Child mortality rate,,2022,6
+Eastern,Infant mortality rate,,1989,43
+Eastern,Infant mortality rate,,1993,47
+Eastern,Infant mortality rate,,1998,53
+Eastern,Infant mortality rate,,2003,56
+Eastern,Infant mortality rate,,2008,39
+Eastern,Infant mortality rate,,2014,36
+Eastern,Infant mortality rate,,2022,28
+Eastern,Postneonatal mortality rate,,1989,20
+Eastern,Postneonatal mortality rate,,1993,23
+Eastern,Postneonatal mortality rate,,1998,31
+Eastern,Postneonatal mortality rate,,2003,24
+Eastern,Postneonatal mortality rate,,2008,8
+Eastern,Postneonatal mortality rate,,2014,12
+Eastern,Postneonatal mortality rate,,2022,8
+Eastern,Neonatal mortality rate,,1989,23
+Eastern,Neonatal mortality rate,,1993,24
+Eastern,Neonatal mortality rate,,1998,23
+Eastern,Neonatal mortality rate,,2003,32
+Eastern,Neonatal mortality rate,,2008,31
+Eastern,Neonatal mortality rate,,2014,24
+Eastern,Neonatal mortality rate,,2022,20
+Embu,Under-five mortality rate,,2014,59
+Embu,Under-five mortality rate,,2022,44
+Embu,Child mortality rate,,2014,17
+Embu,Child mortality rate,,2022,8
+Embu,Infant mortality rate,,2014,43
+Embu,Infant mortality rate,,2022,36
+Embu,Postneonatal mortality rate,,2014,21
+Embu,Postneonatal mortality rate,,2022,11
+Embu,Neonatal mortality rate,,2014,22
+Embu,Neonatal mortality rate,,2022,24
+Isiolo,Under-five mortality rate,,2014,36
+Isiolo,Under-five mortality rate,,2022,33
+Isiolo,Child mortality rate,,2014,7
+Isiolo,Child mortality rate,,2022,9
+Isiolo,Infant mortality rate,,2014,29
+Isiolo,Infant mortality rate,,2022,24
+Isiolo,Postneonatal mortality rate,,2014,11
+Isiolo,Postneonatal mortality rate,,2022,2
+Isiolo,Neonatal mortality rate,,2014,18
+Isiolo,Neonatal mortality rate,,2022,22
+Kitui,Under-five mortality rate,,2014,35
+Kitui,Under-five mortality rate,,2022,27
+Kitui,Child mortality rate,,2014,7
+Kitui,Child mortality rate,,2022,4
+Kitui,Infant mortality rate,,2014,28
+Kitui,Infant mortality rate,,2022,23
+Kitui,Postneonatal mortality rate,,2014,10
+Kitui,Postneonatal mortality rate,,2022,9
+Kitui,Neonatal mortality rate,,2014,18
+Kitui,Neonatal mortality rate,,2022,13
+Makueni,Under-five mortality rate,,2014,27
+Makueni,Under-five mortality rate,,2022,38
+Makueni,Child mortality rate,,2014,7
+Makueni,Child mortality rate,,2022,3
+Makueni,Infant mortality rate,,2014,20
+Makueni,Infant mortality rate,,2022,35
+Makueni,Postneonatal mortality rate,,2014,9
+Makueni,Postneonatal mortality rate,,2022,9
+Makueni,Neonatal mortality rate,,2014,11
+Makueni,Neonatal mortality rate,,2022,26
+Marsabit,Under-five mortality rate,,2014,38
+Marsabit,Under-five mortality rate,,2022,15
+Marsabit,Child mortality rate,,2014,7
+Marsabit,Child mortality rate,,2022,6
+Marsabit,Infant mortality rate,,2014,30
+Marsabit,Infant mortality rate,,2022,9
+Marsabit,Postneonatal mortality rate,,2014,8
+Marsabit,Postneonatal mortality rate,,2022,5
+Marsabit,Neonatal mortality rate,,2014,22
+Marsabit,Neonatal mortality rate,,2022,4
+Machakos,Under-five mortality rate,,2014,39
+Machakos,Under-five mortality rate,,2022,41
+Machakos,Child mortality rate,,2014,4
+Machakos,Child mortality rate,,2022,7
+Machakos,Infant mortality rate,,2014,36
+Machakos,Infant mortality rate,,2022,34
+Machakos,Postneonatal mortality rate,,2014,9
+Machakos,Postneonatal mortality rate,,2022,8
+Machakos,Neonatal mortality rate,,2014,27
+Machakos,Neonatal mortality rate,,2022,26
+Meru,Under-five mortality rate,,2014,67
+Meru,Under-five mortality rate,,2022,35
+Meru,Child mortality rate,,2014,16
+Meru,Child mortality rate,,2022,6
+Meru,Infant mortality rate,,2014,52
+Meru,Infant mortality rate,,2022,29
+Meru,Postneonatal mortality rate,,2014,16
+Meru,Postneonatal mortality rate,,2022,9
+Meru,Neonatal mortality rate,,2014,37
+Meru,Neonatal mortality rate,,2022,20
+Tharaka-Nithi,Under-five mortality rate,,2014,41
+Tharaka-Nithi,Under-five mortality rate,,2022,25
+Tharaka-Nithi,Child mortality rate,,2014,8
+Tharaka-Nithi,Child mortality rate,,2022,6
+Tharaka-Nithi,Infant mortality rate,,2014,33
+Tharaka-Nithi,Infant mortality rate,,2022,19
+Tharaka-Nithi,Postneonatal mortality rate,,2014,14
+Tharaka-Nithi,Postneonatal mortality rate,,2022,7
+Tharaka-Nithi,Neonatal mortality rate,,2014,19
+Tharaka-Nithi,Neonatal mortality rate,,2022,12
+North Eastern,Under-five mortality rate,,2003,163
+North Eastern,Under-five mortality rate,,2008,80
+North Eastern,Under-five mortality rate,,2014,44
+North Eastern,Under-five mortality rate,,2022,39
+North Eastern,Child mortality rate,,2003,79
+North Eastern,Child mortality rate,,2008,24
+North Eastern,Child mortality rate,,2014,8
+North Eastern,Child mortality rate,,2022,5
+North Eastern,Infant mortality rate,,2003,91
+North Eastern,Infant mortality rate,,2008,57
+North Eastern,Infant mortality rate,,2014,37
+North Eastern,Infant mortality rate,,2022,34
+North Eastern,Postneonatal mortality rate,,2003,41
+North Eastern,Postneonatal mortality rate,,2008,24
+North Eastern,Postneonatal mortality rate,,2014,13
+North Eastern,Postneonatal mortality rate,,2022,8
+North Eastern,Neonatal mortality rate,,2003,50
+North Eastern,Neonatal mortality rate,,2008,33
+North Eastern,Neonatal mortality rate,,2014,24
+North Eastern,Neonatal mortality rate,,2022,26
+Garissa,Under-five mortality rate,,2014,67
+Garissa,Under-five mortality rate,,2022,44
+Garissa,Child mortality rate,,2014,11
+Garissa,Child mortality rate,,2022,3
+Garissa,Infant mortality rate,,2014,57
+Garissa,Infant mortality rate,,2022,41
+Garissa,Postneonatal mortality rate,,2014,19
+Garissa,Postneonatal mortality rate,,2022,13
+Garissa,Neonatal mortality rate,,2014,37
+Garissa,Neonatal mortality rate,,2022,28
+Mandera,Under-five mortality rate,,2014,25
+Mandera,Under-five mortality rate,,2022,21
+Mandera,Child mortality rate,,2014,6
+Mandera,Child mortality rate,,2022,1
+Mandera,Infant mortality rate,,2014,19
+Mandera,Infant mortality rate,,2022,20
+Mandera,Postneonatal mortality rate,,2014,9
+Mandera,Postneonatal mortality rate,,2022,4
+Mandera,Neonatal mortality rate,,2014,9
+Mandera,Neonatal mortality rate,,2022,16
+Wajir,Under-five mortality rate,,2014,35
+Wajir,Under-five mortality rate,,2022,57
+Wajir,Child mortality rate,,2014,6
+Wajir,Child mortality rate,,2022,15
+Wajir,Infant mortality rate,,2014,30
+Wajir,Infant mortality rate,,2022,43
+Wajir,Postneonatal mortality rate,,2014,8
+Wajir,Postneonatal mortality rate,,2022,6
+Wajir,Neonatal mortality rate,,2014,21
+Wajir,Neonatal mortality rate,,2022,37
+Nyanza,Under-five mortality rate,,1989,149
+Nyanza,Under-five mortality rate,,1993,187
+Nyanza,Under-five mortality rate,,1998,199
+Nyanza,Under-five mortality rate,,2003,206
+Nyanza,Under-five mortality rate,,2008,149
+Nyanza,Under-five mortality rate,,2014,82
+Nyanza,Under-five mortality rate,,2022,56
+Nyanza,Child mortality rate,,1989,60
+Nyanza,Child mortality rate,,1993,67
+Nyanza,Child mortality rate,,1998,73
+Nyanza,Child mortality rate,,2003,84
+Nyanza,Child mortality rate,,2008,60
+Nyanza,Child mortality rate,,2014,33
+Nyanza,Child mortality rate,,2022,16
+Nyanza,Infant mortality rate,,1989,94
+Nyanza,Infant mortality rate,,1993,128
+Nyanza,Infant mortality rate,,1998,135
+Nyanza,Infant mortality rate,,2003,133
+Nyanza,Infant mortality rate,,2008,95
+Nyanza,Infant mortality rate,,2014,50
+Nyanza,Infant mortality rate,,2022,40
+Nyanza,Postneonatal mortality rate,,1989,62
+Nyanza,Postneonatal mortality rate,,1993,89
+Nyanza,Postneonatal mortality rate,,1998,97
+Nyanza,Postneonatal mortality rate,,2003,106
+Nyanza,Postneonatal mortality rate,,2008,56
+Nyanza,Postneonatal mortality rate,,2014,31
+Nyanza,Postneonatal mortality rate,,2022,13
+Nyanza,Neonatal mortality rate,,1989,32
+Nyanza,Neonatal mortality rate,,1993,38
+Nyanza,Neonatal mortality rate,,1998,38
+Nyanza,Neonatal mortality rate,,2003,27
+Nyanza,Neonatal mortality rate,,2008,39
+Nyanza,Neonatal mortality rate,,2014,19
+Nyanza,Neonatal mortality rate,,2022,27
+Homa Bay,Under-five mortality rate,,2014,119
+Homa Bay,Under-five mortality rate,,2022,61
+Homa Bay,Child mortality rate,,2014,54
+Homa Bay,Child mortality rate,,2022,20
+Homa Bay,Infant mortality rate,,2014,69
+Homa Bay,Infant mortality rate,,2022,42
+Homa Bay,Postneonatal mortality rate,,2014,48
+Homa Bay,Postneonatal mortality rate,,2022,11
+Homa Bay,Neonatal mortality rate,,2014,21
+Homa Bay,Neonatal mortality rate,,2022,32
+Kisumu,Under-five mortality rate,,2014,76
+Kisumu,Under-five mortality rate,,2022,45
+Kisumu,Child mortality rate,,2014,32
+Kisumu,Child mortality rate,,2022,5
+Kisumu,Infant mortality rate,,2014,45
+Kisumu,Infant mortality rate,,2022,40
+Kisumu,Postneonatal mortality rate,,2014,36
+Kisumu,Postneonatal mortality rate,,2022,19
+Kisumu,Neonatal mortality rate,,2014,8
+Kisumu,Neonatal mortality rate,,2022,21
+Kisii,Under-five mortality rate,,2014,36
+Kisii,Under-five mortality rate,,2022,40
+Kisii,Child mortality rate,,2014,7
+Kisii,Child mortality rate,,2022,16
+Kisii,Infant mortality rate,,2014,29
+Kisii,Infant mortality rate,,2022,24
+Kisii,Postneonatal mortality rate,,2014,15
+Kisii,Postneonatal mortality rate,,2022,3
+Kisii,Neonatal mortality rate,,2014,14
+Kisii,Neonatal mortality rate,,2022,21
+Migori,Under-five mortality rate,,2014,98
+Migori,Under-five mortality rate,,2022,73
+Migori,Child mortality rate,,2014,43
+Migori,Child mortality rate,,2022,21
+Migori,Infant mortality rate,,2014,57
+Migori,Infant mortality rate,,2022,53
+Migori,Postneonatal mortality rate,,2014,31
+Migori,Postneonatal mortality rate,,2022,16
+Migori,Neonatal mortality rate,,2014,26
+Migori,Neonatal mortality rate,,2022,37
+Nyamira,Under-five mortality rate,,2014,41
+Nyamira,Under-five mortality rate,,2022,42
+Nyamira,Child mortality rate,,2014,1
+Nyamira,Child mortality rate,,2022,12
+Nyamira,Infant mortality rate,,2014,40
+Nyamira,Infant mortality rate,,2022,31
+Nyamira,Postneonatal mortality rate,,2014,8
+Nyamira,Postneonatal mortality rate,,2022,4
+Nyamira,Neonatal mortality rate,,2014,32
+Nyamira,Neonatal mortality rate,,2022,27
+Siaya,Under-five mortality rate,,2014,87
+Siaya,Under-five mortality rate,,2022,63
+Siaya,Child mortality rate,,2014,41
+Siaya,Child mortality rate,,2022,19
+Siaya,Infant mortality rate,,2014,48
+Siaya,Infant mortality rate,,2022,45
+Siaya,Postneonatal mortality rate,,2014,32
+Siaya,Postneonatal mortality rate,,2022,22
+Siaya,Neonatal mortality rate,,2014,16
+Siaya,Neonatal mortality rate,,2022,24
+Rift Valley,Under-five mortality rate,,1989,51
+Rift Valley,Under-five mortality rate,,1993,61
+Rift Valley,Under-five mortality rate,,1998,68
+Rift Valley,Under-five mortality rate,,2003,77
+Rift Valley,Under-five mortality rate,,2008,59
+Rift Valley,Under-five mortality rate,,2014,45
+Rift Valley,Under-five mortality rate,,2022,40
+Rift Valley,Child mortality rate,,1989,17
+Rift Valley,Child mortality rate,,1993,17
+Rift Valley,Child mortality rate,,1998,18
+Rift Valley,Child mortality rate,,2003,17
+Rift Valley,Child mortality rate,,2008,12
+Rift Valley,Child mortality rate,,2014,12
+Rift Valley,Child mortality rate,,2022,8
+Rift Valley,Infant mortality rate,,1989,35
+Rift Valley,Infant mortality rate,,1993,45
+Rift Valley,Infant mortality rate,,1998,50
+Rift Valley,Infant mortality rate,,2003,61
+Rift Valley,Infant mortality rate,,2008,48
+Rift Valley,Infant mortality rate,,2014,34
+Rift Valley,Infant mortality rate,,2022,33
+Rift Valley,Postneonatal mortality rate,,1989,18
+Rift Valley,Postneonatal mortality rate,,1993,20
+Rift Valley,Postneonatal mortality rate,,1998,22
+Rift Valley,Postneonatal mortality rate,,2003,25
+Rift Valley,Postneonatal mortality rate,,2008,18
+Rift Valley,Postneonatal mortality rate,,2014,14
+Rift Valley,Postneonatal mortality rate,,2022,12
+Rift Valley,Neonatal mortality rate,,1989,17
+Rift Valley,Neonatal mortality rate,,1993,25
+Rift Valley,Neonatal mortality rate,,1998,28
+Rift Valley,Neonatal mortality rate,,2003,37
+Rift Valley,Neonatal mortality rate,,2008,30
+Rift Valley,Neonatal mortality rate,,2014,20
+Rift Valley,Neonatal mortality rate,,2022,21
+Baringo,Under-five mortality rate,,2014,40
+Baringo,Under-five mortality rate,,2022,55
+Baringo,Child mortality rate,,2014,8
+Baringo,Child mortality rate,,2022,5
+Baringo,Infant mortality rate,,2014,33
+Baringo,Infant mortality rate,,2022,50
+Baringo,Postneonatal mortality rate,,2014,9
+Baringo,Postneonatal mortality rate,,2022,17
+Baringo,Neonatal mortality rate,,2014,24
+Baringo,Neonatal mortality rate,,2022,33
+Elgeyo Marakwet,Under-five mortality rate,,2014,27
+Elgeyo Marakwet,Under-five mortality rate,,2022,33
+Elgeyo Marakwet,Child mortality rate,,2014,3
+Elgeyo Marakwet,Child mortality rate,,2022,1
+Elgeyo Marakwet,Infant mortality rate,,2014,24
+Elgeyo Marakwet,Infant mortality rate,,2022,32
+Elgeyo Marakwet,Postneonatal mortality rate,,2014,9
+Elgeyo Marakwet,Postneonatal mortality rate,,2022,5
+Elgeyo Marakwet,Neonatal mortality rate,,2014,16
+Elgeyo Marakwet,Neonatal mortality rate,,2022,27
+Bomet,Under-five mortality rate,,2014,50
+Bomet,Under-five mortality rate,,2022,28
+Bomet,Child mortality rate,,2014,5
+Bomet,Child mortality rate,,2022,3
+Bomet,Infant mortality rate,,2014,45
+Bomet,Infant mortality rate,,2022,26
+Bomet,Postneonatal mortality rate,,2014,17
+Bomet,Postneonatal mortality rate,,2022,9
+Bomet,Neonatal mortality rate,,2014,28
+Bomet,Neonatal mortality rate,,2022,17
+Kericho,Under-five mortality rate,,2014,46
+Kericho,Under-five mortality rate,,2022,31
+Kericho,Child mortality rate,,2014,14
+Kericho,Child mortality rate,,2022,7
+Kericho,Infant mortality rate,,2014,32
+Kericho,Infant mortality rate,,2022,25
+Kericho,Postneonatal mortality rate,,2014,9
+Kericho,Postneonatal mortality rate,,2022,8
+Kericho,Neonatal mortality rate,,2014,23
+Kericho,Neonatal mortality rate,,2022,17
+Kajiado,Under-five mortality rate,,2014,22
+Kajiado,Under-five mortality rate,,2022,32
+Kajiado,Child mortality rate,,2014,2
+Kajiado,Child mortality rate,,2022,7
+Kajiado,Infant mortality rate,,2014,19
+Kajiado,Infant mortality rate,,2022,25
+Kajiado,Postneonatal mortality rate,,2014,9
+Kajiado,Postneonatal mortality rate,,2022,12
+Kajiado,Neonatal mortality rate,,2014,10
+Kajiado,Neonatal mortality rate,,2022,14
+Laikipia,Under-five mortality rate,,2014,36
+Laikipia,Under-five mortality rate,,2022,50
+Laikipia,Child mortality rate,,2014,10
+Laikipia,Child mortality rate,,2022,7
+Laikipia,Infant mortality rate,,2014,27
+Laikipia,Infant mortality rate,,2022,44
+Laikipia,Postneonatal mortality rate,,2014,8
+Laikipia,Postneonatal mortality rate,,2022,23
+Laikipia,Neonatal mortality rate,,2014,18
+Laikipia,Neonatal mortality rate,,2022,20
+Nakuru,Under-five mortality rate,,2014,62
+Nakuru,Under-five mortality rate,,2022,51
+Nakuru,Child mortality rate,,2014,17
+Nakuru,Child mortality rate,,2022,10
+Nakuru,Infant mortality rate,,2014,47
+Nakuru,Infant mortality rate,,2022,41
+Nakuru,Postneonatal mortality rate,,2014,24
+Nakuru,Postneonatal mortality rate,,2022,16
+Nakuru,Neonatal mortality rate,,2014,22
+Nakuru,Neonatal mortality rate,,2022,25
+Narok,Under-five mortality rate,,2014,42
+Narok,Under-five mortality rate,,2022,26
+Narok,Child mortality rate,,2014,8
+Narok,Child mortality rate,,2022,2
+Narok,Infant mortality rate,,2014,35
+Narok,Infant mortality rate,,2022,24
+Narok,Postneonatal mortality rate,,2014,16
+Narok,Postneonatal mortality rate,,2022,8
+Narok,Neonatal mortality rate,,2014,19
+Narok,Neonatal mortality rate,,2022,16
+Nandi,Under-five mortality rate,,2014,36
+Nandi,Under-five mortality rate,,2022,39
+Nandi,Child mortality rate,,2014,6
+Nandi,Child mortality rate,,2022,7
+Nandi,Infant mortality rate,,2014,30
+Nandi,Infant mortality rate,,2022,33
+Nandi,Postneonatal mortality rate,,2014,9
+Nandi,Postneonatal mortality rate,,2022,9
+Nandi,Neonatal mortality rate,,2014,21
+Nandi,Neonatal mortality rate,,2022,24
+Samburu,Under-five mortality rate,,2014,23
+Samburu,Under-five mortality rate,,2022,38
+Samburu,Child mortality rate,,2014,7
+Samburu,Child mortality rate,,2022,9
+Samburu,Infant mortality rate,,2014,17
+Samburu,Infant mortality rate,,2022,29
+Samburu,Postneonatal mortality rate,,2014,9
+Samburu,Postneonatal mortality rate,,2022,10
+Samburu,Neonatal mortality rate,,2014,8
+Samburu,Neonatal mortality rate,,2022,19
+Trans-Nzoia,Under-five mortality rate,,2014,54
+Trans-Nzoia,Under-five mortality rate,,2022,42
+Trans-Nzoia,Child mortality rate,,2014,28
+Trans-Nzoia,Child mortality rate,,2022,6
+Trans-Nzoia,Infant mortality rate,,2014,26
+Trans-Nzoia,Infant mortality rate,,2022,36
+Trans-Nzoia,Postneonatal mortality rate,,2014,10
+Trans-Nzoia,Postneonatal mortality rate,,2022,14
+Trans-Nzoia,Neonatal mortality rate,,2014,16
+Trans-Nzoia,Neonatal mortality rate,,2022,23
+Turkana,Under-five mortality rate,,2014,71
+Turkana,Under-five mortality rate,,2022,55
+Turkana,Child mortality rate,,2014,28
+Turkana,Child mortality rate,,2022,27
+Turkana,Infant mortality rate,,2014,45
+Turkana,Infant mortality rate,,2022,29
+Turkana,Postneonatal mortality rate,,2014,22
+Turkana,Postneonatal mortality rate,,2022,7
+Turkana,Neonatal mortality rate,,2014,23
+Turkana,Neonatal mortality rate,,2022,21
+Uasin Gishu,Under-five mortality rate,,2014,40
+Uasin Gishu,Under-five mortality rate,,2022,37
+Uasin Gishu,Child mortality rate,,2014,9
+Uasin Gishu,Child mortality rate,,2022,6
+Uasin Gishu,Infant mortality rate,,2014,31
+Uasin Gishu,Infant mortality rate,,2022,31
+Uasin Gishu,Postneonatal mortality rate,,2014,14
+Uasin Gishu,Postneonatal mortality rate,,2022,14
+Uasin Gishu,Neonatal mortality rate,,2014,18
+Uasin Gishu,Neonatal mortality rate,,2022,17
+Western,Under-five mortality rate,,1989,133
+Western,Under-five mortality rate,,1993,110
+Western,Under-five mortality rate,,1998,122
+Western,Under-five mortality rate,,2003,144
+Western,Under-five mortality rate,,2008,121
+Western,Under-five mortality rate,,2014,64
+Western,Under-five mortality rate,,2022,51
+Western,Child mortality rate,,1989,63
+Western,Child mortality rate,,1993,49
+Western,Child mortality rate,,1998,63
+Western,Child mortality rate,,2003,70
+Western,Child mortality rate,,2008,60
+Western,Child mortality rate,,2014,25
+Western,Child mortality rate,,2022,18
+Western,Infant mortality rate,,1989,75
+Western,Infant mortality rate,,1993,63
+Western,Infant mortality rate,,1998,64
+Western,Infant mortality rate,,2003,80
+Western,Infant mortality rate,,2008,65
+Western,Infant mortality rate,,2014,40
+Western,Infant mortality rate,,2022,34
+Western,Postneonatal mortality rate,,1989,50
+Western,Postneonatal mortality rate,,1993,37
+Western,Postneonatal mortality rate,,1998,44
+Western,Postneonatal mortality rate,,2003,54
+Western,Postneonatal mortality rate,,2008,41
+Western,Postneonatal mortality rate,,2014,21
+Western,Postneonatal mortality rate,,2022,13
+Western,Neonatal mortality rate,,1989,25
+Western,Neonatal mortality rate,,1993,27
+Western,Neonatal mortality rate,,1998,20
+Western,Neonatal mortality rate,,2003,25
+Western,Neonatal mortality rate,,2008,24
+Western,Neonatal mortality rate,,2014,19
+Western,Neonatal mortality rate,,2022,20
+West Pokot,Under-five mortality rate,,2014,25
+West Pokot,Under-five mortality rate,,2022,46
+West Pokot,Child mortality rate,,2014,3
+West Pokot,Child mortality rate,,2022,9
+West Pokot,Infant mortality rate,,2014,22
+West Pokot,Infant mortality rate,,2022,38
+West Pokot,Postneonatal mortality rate,,2014,8
+West Pokot,Postneonatal mortality rate,,2022,11
+West Pokot,Neonatal mortality rate,,2014,14
+West Pokot,Neonatal mortality rate,,2022,27
+Busia,Under-five mortality rate,,2014,78
+Busia,Under-five mortality rate,,2022,53
+Busia,Child mortality rate,,2014,28
+Busia,Child mortality rate,,2022,20
+Busia,Infant mortality rate,,2014,52
+Busia,Infant mortality rate,,2022,34
+Busia,Postneonatal mortality rate,,2014,29
+Busia,Postneonatal mortality rate,,2022,12
+Busia,Neonatal mortality rate,,2014,23
+Busia,Neonatal mortality rate,,2022,22
+Bungoma,Under-five mortality rate,,2014,57
+Bungoma,Under-five mortality rate,,2022,55
+Bungoma,Child mortality rate,,2014,19
+Bungoma,Child mortality rate,,2022,16
+Bungoma,Infant mortality rate,,2014,39
+Bungoma,Infant mortality rate,,2022,39
+Bungoma,Postneonatal mortality rate,,2014,17
+Bungoma,Postneonatal mortality rate,,2022,15
+Bungoma,Neonatal mortality rate,,2014,22
+Bungoma,Neonatal mortality rate,,2022,25
+Kakamega,Under-five mortality rate,,2014,54
+Kakamega,Under-five mortality rate,,2022,45
+Kakamega,Child mortality rate,,2014,24
+Kakamega,Child mortality rate,,2022,18
+Kakamega,Infant mortality rate,,2014,31
+Kakamega,Infant mortality rate,,2022,28
+Kakamega,Postneonatal mortality rate,,2014,19
+Kakamega,Postneonatal mortality rate,,2022,11
+Kakamega,Neonatal mortality rate,,2014,11
+Kakamega,Neonatal mortality rate,,2022,16
+Vihiga,Under-five mortality rate,,2014,91
+Vihiga,Under-five mortality rate,,2022,51
+Vihiga,Child mortality rate,,2014,39
+Vihiga,Child mortality rate,,2022,17
+Vihiga,Infant mortality rate,,2014,55
+Vihiga,Infant mortality rate,,2022,34
+Vihiga,Postneonatal mortality rate,,2014,25
+Vihiga,Postneonatal mortality rate,,2022,18
+Vihiga,Neonatal mortality rate,,2014,29
+Vihiga,Neonatal mortality rate,,2022,16
